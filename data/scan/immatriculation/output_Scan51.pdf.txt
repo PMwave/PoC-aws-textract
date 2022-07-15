@@ -1,0 +1,162 @@
+DEMANDE DE CERTIFICAT D'IMMATRICULATION D'UN VÉHICULE
+cerfa
+REPUBLIQUE FRANÇAINE
+Articles R. 322-1 et suivants du code de la route
+N° 13750*05
+MINISTÈRE
+Veuillez cocher la case correspondante :
+DE
+L'INTÉRIEUR
+Certificat
+Duplicata
+Correction
+Changement de domicile
+Changement d'état civil ou d'état matrimonial
+Changement des caractéristiques techniques du véhicule
+VEHICULE
+(A) Numéro d'immatriculation actuel
+Date d' achat, le cas échéant
+(I) Date de certificat actuel
+(B) Date de 1re immatriculation
+(si nouveau format d'immatriculation. Ce numéro figure sur la 1re page
+Numéro de formule du certificat d'immatriculation *
+du certificat d'immatriculation sous la mention " Certificat d'immatriculation ")
+COULEUR DOMINANTE (Veuillez cocher les cases correspondantes)
+Marque (D.1)
+Dénomination commerciale (D.3)
+Noir
+Jaune
+Gris
+Type variante version (D.2)
+Clair
+Marron
+Vert
+Blanc
+Numéro d'identification du véhicule (E)
+Genre national (J.1)
+Rouge
+Bleu
+Foncé
+Orange
+Beige
+Numéro d'exploitation agricole, le cas échéant
+Si véhicule pris en location, cocher la case correspondante:
+Véhicule
+en location longue durée
+en location courte durée
+en crédit-bail
+TITULAIRE
+Personne physique
+Sexe M
+F
+Personne morale
+N° SIREN, le cas échéant
+Titulaire L
+NOM DE NAISSANCE et PRÉNOM ou RAISON SOCIALE pour une personne morale
+NOM D'USAGE (facultatif) nom d'époux (se)
+Né(e)
+à
+I
+Jour
+Mois
+Année
+Commune
+Département Pays
+Domicile
+Etage / Escalier / Appartement
+Immeuble / Résidence / Bâtiment
+N° de la voie
+Extension (bis, ter,. Type de voie (avenue, etc.)
+Libellé de voie
+I
+Lieu-dit / BP / Localité (si différente de la commune)
+Tél. portable (recommandé)
+I
+I
+I
+Code postal
+Commune
+Mél (recommandé)
+Dans le cas de multi-propriété, veuillez indiquer le nombre de personnes titulaires du certificat d' immatriculation
+Co-titulaire L
+le cas échéant
+NOM DE NAISSANCE et PRÉNOM ou RAISON SOCIALE pour une personne morale NOM D'USAGE (facultatif): nom d' époux (se)
+N° SIREN, le cas échéant
+LOUEUR (en cas de location ou crédit-bail)
+Personne physique
+Sexe M
+F
+Personne morale
+N° SIREN, le cas échéant
+NOM DE NAISSANCE et PRÉNOM ou RAISON SOCIALE pour une personne morale
+NOM D'USAGE (facultatif): nom d' époux (se)
+I
+Etage / Escalier / Appartement
+Immeuble/ Résidence/Bâtiment
+I
+N° de la voie
+Extension
+(bis, ter,...) Type de voie (avenue, etc.)
+Libellé de voie
+Lieu-dit / BP / Localité (si différente de la commune)
+Tél. portable (recommandé)
+Code postal
+Commune
+Mél (recommandé)
+LOCATAIRE (en cas de location longue durée ou crédit-bail)
+Personne physique
+Sexe M
+F
+Personne morale
+N° SIREN, le cas échéant
+NOM DE NAISSANCE et PRÉNOM ou RAISON SOCIALE pour une personne morale
+NOM D'USAGE (facultatif): nom d' époux (se)
+I
+Etage / Escalier / Appartement
+Immeuble / Résidence / Bâtiment
+I
+N° de la voie
+Extension (bis, ter, .) Type de voie (avenue, etc.)
+Libellé de voie
+I
+Lieu-dit / BP / Localité (si différente de la commune)
+Tél. portable (recommandé)
+I
+Code postal
+Commune
+Mél (recommandé)
+CADRE RÉSERVÉ À
+Le titulaire
+Le loueur
+Le locataire
+L'ADMINISTRATION
+(Société de location en cas de crédit-bail)
+(Si location longue durée ou en crédit-bail)
+Fait
+Le
+Fait à
+Le
+Fait à
+Le
+Vu les pièces justificatives
+Signature :
+Signature :
+Signature :
+Rejet de la demande
+(Pour les sociétés: nom, qualité du signataire et
+(Pour les sociétés: nom, qualité du signataire
+Motif
+cachet)
+et cachet)
+Usage (veuillez cocher la case correspondante):
+Oui
+Non
+Je n'oppose à la réutilisation de mes données personnelles à des fins de prospection commerciale**:
+Mode d'expédition du titre :
+Voie postale
+Le titulaire
+Le loueur
+Le locataire
+Retrait à l'imprimerie Nationale
+La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, garantit un droit d'accès et de rectification des données auprès d'une préfecture de son choix.
+** Uniquement pour les personnes physiques
