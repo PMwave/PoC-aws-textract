@@ -1,0 +1,43 @@
+83910
+06 14 45 92 65
+13
+France
+NOT_SELECTED
+Philippe
+8 are dis liles
+1981
+Pourriers
+Gerard
+11
+FLANTIER
+Penilope
+SELECTED
+HUBERT
+2 0 2 2
+07
+1.26
+SELECTED
+None
+None
+1/22
+None
+None
+05
+1959 À Mice
+None
+None
+0 5
+bleu - gris
+None
+HUBERT (C'est le nom qui figure sur votre acte de naissance.)
+Marsille
+époux(se)
+SELECTED
+None
+None
+1962 A Cames
+None
+None
+NOT_SELECTED
+NOT_SELECTED
+None

@@ -1,0 +1,39 @@
+06 14 1592 65
+8310
+Penilope
+France
+NOT_SELECTED
+05
+Philippe
+HUBERT
+FLANTIER
+SELECTED
+8 me dus lilas
+binard
+2 O 2 2
+SELECTED
+vous êtes né(e) en France et l'un au moins de vos parents est né en France vous êtes né(e) en France et au moins l'un de vos parents est né dans un ancien département ou territoire français vous êtes né(e) en France et l'un au moins de vos parents est français vous n' êtes pas né(e) en France et l'un au moins de vos parents est français.
+Pourier
+0 S
+13
+None
+None
+None
+None
+None
+NOT_SELECTED
+lu - gris
+J 12
+époux(se)
+None
+None
+1959 À Nice
+None
+07An
+None
+None
+16 M
+1962
+None
+HOBERT
+None

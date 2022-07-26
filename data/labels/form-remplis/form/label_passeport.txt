@@ -1,0 +1,44 @@
+Key: Code postal, Value: 83910
+Key: Tél. portable, Value: 06 14 45 92 65
+Key: Département de naissance, Value: 13
+Key: Pays de naissance, Value: France
+Key: Femme, Value: NOT_SELECTED
+Key: Prénom(s), Value: Philippe
+Key: Adresse, Value: 8 are dis liles
+Key: An, Value: 1981
+Key: Commune, Value: Pourriers
+Key: Prénom(s), Value: Gerard
+Key: M, Value: 11
+Key: Nom, Value: FLANTIER
+Key: Prénom(s), Value: Penilope
+Key: Homme, Value: SELECTED
+Key: Nom, Value: HUBERT
+Key: An, Value: 2 0 2 2
+Key: M, Value: 07
+Key: Né le, Value: 1.26
+Key: passeport, Value: SELECTED
+Key: vous êtes français(e) par déclaration, Value: None
+Key: vous êtes de nationalité française par mariage, Value: None
+Key: Née le, Value: 1/22
+Key: (autrement que par mariage), Value: None
+Key: avant votre majorité, Value: None
+Key: M, Value: 05
+Key: An, Value: 1959 À Mice
+Key: vous êtes naturalisé(e) français(e), Value: None
+Key: autre motif, Value: None
+Key: M, Value: 0 5
+Key: Pour le passeport :, Value: bleu - gris
+Key: vous avez été réintégré(e) dans la nationalité française, Value: None
+Key: Nom, Value: HUBERT (C'est le nom qui figure sur votre acte de naissance.)
+Key: À, Value: Marsille
+Key: Si oui, lequel :, Value: époux(se)
+Key: - vous êtes né(e) en France et l'un au moins de vos parents est né en France, Value: SELECTED
+Key: Deuxième nom, Value: None
+Key: Nationalité, Value: None
+Key: An, Value: 1962 A Cames
+Key: vous êtes né(e) en France et vos parents ne sont pas français, Value: None
+Key: Nationalité, Value: None
+Key: de vos parents est français, Value: NOT_SELECTED
+Key: époux, Value: NOT_SELECTED
+Key: Signature du demandeur, Value: None
+43

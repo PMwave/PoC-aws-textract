@@ -1,0 +1,325 @@
+CONSTAT AMIABLE D'ACCIDENT AUTOMOBILE ACCIDENT REPORT
+1
+Date de l'accident
+Heure
+2
+Localisation
+3
+Blessé(s) même léger(s)
+Date of the accident
+Time
+Locality
+Lieu
+Injury(es) even if slight
+Exact location
+1/2
+Pays
+Country
+oui
+non
+yes
+no
+2/2
+3 523 00 556 354 00
+4 Dégâts matériel à des
+Property damage
+5
+Témoins noms, adresses et tél
+véhicules autres que A et B
+Witnesses names, addresses and tel. numbers
+objets autres que des véhicules
+other than vehicles A and B
+damage to other property
+oui
+non
+oui
+non
+yes
+no
+yes
+no
+VÉHICULE A
+VEHICLE A
+12. CIRCONSTANCES
+VÉHICULE B 
+VEHICLE B
+6
+Preneur d'assurance / assuré (voir attestation d' assurance)
+Circumstances
+6
+Preneur l'assurance / assuré (voir attestation d'assurance)
+Detail of insured (see insurance certificate)
+Mettre une croix dans chacunes des cases
+Detail of insured (see insurance certificate)
+NOM :
+utiles pour préciser le croquis
+NOM
+Name
+A
+Rayer la mention inutile
+B
+Name
+Prénom
+:
+Put cross in each of the relevant spaces
+Prénom :
+First name
+to help explain the plan
+First name
+Adresse
+Strike the unused term
+Adresse
+Address
+Address
+Code postal :
+Pays
+1
+* en stationnement à l'arrêt*
+1
+Portal code
+Code postal
+Pays
+Country
+Parked stationary
+Portal code
+Country
+Tél. ou email
+Tel. or email
+2
+quittait un stationnement ouvrait une portière
+2
+Tél. ou email
+"Leaving a parking space opening door
+Tel. or email
+7
+Véhicule vehicle
+3
+prenait un stationnement
+3
+7
+Véhicule vehicle
+MOTEUR VEHICLE
+REMORQUE TRAILER
+enterring a parking space (at the roadside)
+A MOTEUR VEHICLE
+REMORQUE TRAILER
+Marque, type Make, type
+4
+sortait d' un parking, d'un lieu privé,
+4
+d' l'un chemin de terre
+Marque, type Make, type
+N° d' l'immatriculation
+emerging from a car park, from private grounds,
+N° immatriculation
+from track
+N° d'immatriculation
+N° d'immatriculation
+Registration number
+Registration number
+Registration number
+Registration number
+5
+s'engageait dans un parking, un lieu privé,
+5
+Pays d' immatriculation
+Pays d'immatriculation
+un chemin de terre
+Pays d' immatriculation
+Pays di immatriculation
+Country of registration
+Country of registration
+entering car park, private grounds, track
+Country of registration
+Country of registration
+6
+s'engageait sur une place à sens giratoire
+6
+8
+Société d' assurance (voir attestation d' assurance) see insurance certificate
+entering a roundabout or similar traffic system
+8
+Société d' assurance (voir attestation d assurance) ( see insurance certificate)
+Insurance company
+7
+roulait sur une place à sens giratoire
+7
+Insurance company
+NOM
+driving on roundabout etc
+NOM
+Name
+8
+heurtait à l'arrière, en roulant dans le
+8
+Name
+N° de contrat
+Policy N°
+même sens et sur une même file
+N° de contrat
+Policy N°
+N° de carte verte
+Hit the rear end, driving in same direction
+N° de carte verte -
+N° insurance certificate
+in same file (lane)
+N° insurance certificate
+Attestation d' assurance ou carte verte valable
+9
+roulait dans le même sens et
+Attestation d' assurance ou carte verte valable
+Period of insurance validity du from :
+9
+au
+sur une file différente
+Period of insurance validity du from
+au to:
+Agence (ou bureau, ou courtier)
+going in the same direction but a different lane
+Agence (ou bureau, ou courtier) :
+Agency or broker
+Agency or broker
+NOM
+10
+changeait de file changing files (lanes)
+10
+NOM
+Name
+Name
+Adresse :
+11
+doublait overtaking
+11
+Adresse :
+Address
+Pays
+12
+virait à droite turning to the right
+12
+Address
+Pays
+Country
+13
+virait à gauche turning to the left
+13
+Country
+Tél ou email
+Tél ou email
+Tel or email
+14
+Les dégâts matériels au véhicule sont-ils assurés par le contrat ?
+reculait moving backward
+14
+Tel or email
+Les dégâts matériels au véhicule sont-ils assurés par le contrat ?
+Is damage to the vehicle insured by the contract ?
+15
+empiétait sur une voie réservée à la
+15
+Is damage to the vehicle insured by the contract ?
+oui
+non no
+circulation en sens inverse
+oui yes
+non no
+encroaching upon the lane reserved for opposite traffic
+9
+Conducteur (voir permis de conduire)
+Driver see driving licence)
+9
+Conducteur (voir permis de conduire)
+Driver see driving licence)
+NOM
+16
+venait de droite (dans une carrefour)
+16
+coming from the right on intersection
+NOM
+Name
+Name
+Prénom :
+17
+n° avait pas observé un signal de priorité ou
+17
+Prénom
+First name
+un feu rouge. Failing to stop at sign
+First name
+Date de naissance :
+Date de naissance
+:
+Date of birth
+indiquer le nombre de cases
+Date of birth
+Adresse
+marquées d'une croix
+Adresse :
+Address
+State TOTAL number of spaces marked with cross
+Address
+Pays
+Pays
+Country
+A signer obligatoirement par les deux conducteurs
+Country
+Tél ou email
+Ne constitue pas une reconnaissance de responsabilité mais un relevé des
+identités et des faits servant l'accelération du règlement
+Tél ou email
+Tel or email
+Must be signed by BOTH drivers
+Tel or email
+Permis de conduire n°
+Does NOT constitute an admission of liability, but summary of identities and
+Permis de conduire n°
+Driving licence n°
+the facts which will speed up the settlement of claims
+Driving licence n°
+Catégorie (A, B...)
+Groups (A. B...)
+13
+Croquis de l'accident au moment du choc
+13
+Catégorie (A, B...)
+Sketch of accident
+Groups (A, B...)
+Permis valable jusqu'au
+Préciser 1. le tracé des voies 2. La direction (par des flèches) des véhicules A, B
+Permis valable jusqu'au
+Driving licence valid until
+3.
+leur position of the road arrows the vehicles
+les,signaux
+routes).
+Driving licence valid until
+3. their position the times of impact the road names of the streets or roads
+10
+Indiquer le point de choc
+10
+Indiquer le point de choc
+initial au véhicule A
+initial au véhicule B
+par une flèche
+par une flèche
+Indicate with an arrow the point
+Indicate with an arrow the point
+of initial impact
+of initial impact
+11
+Dégâts apparents au
+11
+Dégâts apparents au
+véhicule A
+véhicule B
+Visible damage to vehicle A
+Visible damage to vehicle A
+14
+Mes observations My remarks :
+Signature des conducteurs
+14
+15
+15
+Mes observations My remarks
+Signatures of the drivers
+A
+B

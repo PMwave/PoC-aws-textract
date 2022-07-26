@@ -1,0 +1,36 @@
+NOT_SELECTED
+NOT_SELECTED
+None
+Couleur des yeux
+None
+Nom
+- vous êtes né(e) en France et au moins vos parents est né en France - vous êtes né(e) en France et au moins l'un de vos parents est né dans un ancien département ou territoire français - vous êtes né(e) en France et l'un au moins de vos parents est français - vous n êtes pas né(e) en France et l'un au moins de vos parents est français.
+None
+None
+None
+None
+None
+None
+SELECTED
+None
+None
+None
+None
+None
+J
+J
+None
+J
+None
+None
+None
+None
+None
+(C'est le nom qui figure sur votre acte de naissance.)
+None
+None
+None
+None
+None
+None
+Nom

@@ -1,0 +1,35 @@
+NOT_SELECTED
+NOT_SELECTED
+None
+None
+Couleur des yeux
+NOT_SELECTED
+None
+SELECTED
+None
+None
+None
+Nom
+None
+None
+None
+None
+J
+None
+None
+None
+None
+J
+NOT_SELECTED
+None
+None
+None
+J M An A
+None
+(C'est le nom qui figure sur votre acte de naissance.)
+père mère - époux - épouse deuxième nom ? Oui Non Si oui, lequel : époux(se) veuf(ve)
+None
+None
+Nom
+None
+A

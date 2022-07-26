@@ -1,14 +1,12 @@
 import boto3
 from trp import Document
-from PIL import Image
-from PIL import ImageFont
-from PIL import ImageDraw
+
 import os
 import glob
 
-s3BucketName = "ocrbucket379045149424"
-s3client = boto3.client('s3')
-s3resource = boto3.resource('s3')
+s3BucketName = "ocrbucket023200279992"
+s3client = boto3.client('s3', region_name='eu-west-1')
+s3resource = boto3.resource('s3', region_name='eu-west-1')
 
 def delete_bucket_content():
    
@@ -26,6 +24,7 @@ def list_files(root):
 
 def upload_files(root):
     files = list_files(root)
+    print(files)
     for file in files :
         s3client.upload_file(
         Filename=file,
@@ -35,5 +34,6 @@ def upload_files(root):
 
     print('check')
 
-
-#upload_files("../../../data/scan")
+delete_bucket_content()
+upload_files("../data/form-remplis")
+upload_files("../data/form-vierge")

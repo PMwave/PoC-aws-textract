@@ -1,0 +1,3 @@
+Levenstein distance: 1252
+Word error rate: 19.318006480481404 %
+Word Accuracy: 80.6819935195186 %

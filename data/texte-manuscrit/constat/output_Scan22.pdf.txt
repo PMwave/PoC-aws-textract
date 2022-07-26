@@ -1,0 +1,63 @@
+oui non yes no
+oui non yes no
+None
+oui non yes no
+None
+None
+NOT_SELECTED
+None
+NOT_SELECTED
+NOT_SELECTED
+None
+NOT_SELECTED
+None
+None
+None
+None
+NOT_SELECTED
+None
+NOT_SELECTED
+None
+None
+None
+None
+None
+None
+None
+None
+6
+NOT_SELECTED
+None
+None
+8
+NOT_SELECTED
+Exact location
+SELECTED
+:
+None
+NOT_SELECTED
+None
+None
+None
+NOT_SELECTED
+NOT_SELECTED
+NOT_SELECTED
+Make, type
+None
+13
+None
+None
+None
+Pays
+NOT_SELECTED
+None
+NOT_SELECTED
+None
+NOT_SELECTED
+NOT_SELECTED
+None
+7
+NOT_SELECTED
+None
+None
+None

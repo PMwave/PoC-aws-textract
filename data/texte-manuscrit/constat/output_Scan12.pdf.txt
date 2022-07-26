@@ -1,0 +1,74 @@
+NOT_SELECTED
+oui non yes no
+None
+None
+oui non yes no
+NOT_SELECTED
+None
+Pays Country
+None
+NOT_SELECTED
+None
+None
+None
+:
+None
+None
+None
+NOT_SELECTED
+NOT_SELECTED
+6
+None
+8
+None
+NOT_SELECTED
+3
+None
+None
+:
+10
+None
+Make, type
+Marque, type Make, type N° immatriculation Registration number Pays d' immatriculation Country of registration
+Exact location
+None
+1
+None
+None
+None
+10
+None
+None
+Pays
+None
+None
+8
+2
+9
+None
+None
+6
+None
+None
+None
+None
+None
+None
+5
+None
+: au
+None
+None
+None
+None
+N° insurance certificate
+None
+7
+None
+7
+None
+None
+None
+du from
+None
+None
